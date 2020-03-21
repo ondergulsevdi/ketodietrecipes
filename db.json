@@ -1,14 +1,66 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "Repasts":[
+      {
+         "RepastId":"1",
+         "RepastName":"Kahvaltı",
+         "RepastDescription":"Kahvaltı günün en kıymetli öğünüdür.",
+         "RepastImage":"kahvaltı.jpg"
+      },
+      {
+         "RepastId":"2",
+         "RepastName":"Öğle Yemeği",
+         "RepastDescription":"Öğle yemeği günün en kıymetli öğünüdür",
+         "RepastImage":"kahvaltı.jpg"
+      },
+      {
+         "RepastId":"3",
+         "RepastName":"Akşam Yemeği",
+         "RepastDescription":"Akşam yemeği günün en kıymetli öğünüdür",
+         "RepastImage":"kahvaltı.jpg"
+      },
+      {
+         "RepastId":"4",
+         "RepastName":"Tatlılar",
+         "RepastDescription":"Tatlı günün en kıymetli öğünüdür",
+         "RepastImage":"kahvaltı.jpg"
+      }
+   ],
+   "Recipes":[
+      {
+         "RepastId":"1",
+         "RecipeId":"1",
+         "RecipeName":"Sucuklu Yumarta",
+         "RecipeDescription":"Yumurtları kır",
+         "RecipeDirection":"TestTestTest",
+         "RecipeImage":"kahvaltı.jpg",
+         "Ingredients":[
+            {
+               "IngredientId":"1",
+               "IngredientsName":"1 Adet Yumarta"
+            },
+            {
+               "IngredientId":"2",
+               "IngredientsName":"2 Adet Sucuk"
+            }
+         ]
+      },
+      {
+         "RepastId":"1",
+         "RecipeId":"1",
+         "RecipeName":"Sucuklu Yumarta",
+         "RecipeDescription":"Yumurtları kır",
+         "RecipeDirection":"TestTestTest",
+         "RecipeImage":"kahvaltı.jpg",
+         "Ingredients":[
+            {
+               "IngredientId":"1",
+               "IngredientsName":"1 Adet Yumarta"
+            },
+            {
+               "IngredientId":"2",
+               "IngredientsName":"2 Adet Sucuk"
+            }
+         ]
+      }
+   ]
 }
