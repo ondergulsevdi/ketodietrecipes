@@ -1,0 +1,23 @@
+{
+  "Repasts": {
+    "Repast": {
+      "RepastId": "1",
+      "RepastName": "Kahvaltı",
+      "RepastDescription": "Kahvaltı günün en kıymetli öğünüdür",
+      "RepastImage": "kahvaltı.jpg"
+    }
+  },
+  "Recipes": {
+    "Recipe": {
+      "RepastId": "1",  "RecipeId": "1",
+      "RecipeName": "Sucuklu Yumarta",
+      "RecipeDescription": "yumurtları kır",
+      "RecipeDirection": "Selamınaleyküm",
+      "RecipeImage": "kahvaltı.jpg",
+      "Ingredients": {
+        "IngredientId": "1",
+        "IngredientsName": "1 Adet Yumarta"
+      }
+    }
+  }
+}
