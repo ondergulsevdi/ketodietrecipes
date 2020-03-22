@@ -4,13 +4,13 @@
          "RepastId":"1",
          "RepastName":"Kahvaltı",
          "RepastDescription":"Kahvaltı günün en kıymetli öğünüdür.",
-         "RepastImage":"kahvaltı.jpg"
+         "RepastImage":"https://github.com/ondergulsevdi/ketodietrecipes/blob/master/HeaderImages/breakfast.png?raw=true"
       },
       {
          "RepastId":"2",
          "RepastName":"Öğle Yemeği",
          "RepastDescription":"Öğle yemeği günün en kıymetli öğünüdür",
-         "RepastImage":"kahvaltı.jpg"
+         "RepastImage":"https://github.com/ondergulsevdi/ketodietrecipes/blob/master/HeaderImages/lunch.png?raw=true"
       },
       {
          "RepastId":"3",
