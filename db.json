@@ -16,7 +16,7 @@
          "RepastId":"3",
          "RepastName":"Akşam Yemeği",
          "RepastDescription":"Akşam yemeği günün en kıymetli öğünüdür",
-         "RepastImage":"kahvaltı.jpg"
+         "RepastImage":"https://github.com/ondergulsevdi/ketodietrecipes/blob/master/HeaderImages/dinner.png?raw=true"
       },
       {
          "RepastId":"4",
