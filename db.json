@@ -31,8 +31,8 @@
          "RecipeId":"1",
          "RecipeName":"Sucuklu Yumarta",
          "RecipeDescription":"Yumurtları kır",
-         "RecipeDirection":"TestTestTest",
-         "RecipeImage":"kahvaltı.jpg",
+         "RecipeDirection":"TestTestTes dsf df sdfs df sdfsdf sdf sdfsdfsdf dfsdffdd   fgdfgdfg fg fdg dfg dfgdgdgfgdfgdfgdgdfgt",
+         "RecipeImage":"https://github.com/ondergulsevdi/ketodietrecipes/blob/master/HeaderImages/breakfast.png?raw=true",
          "Ingredients":[
             {
                "IngredientId":"1",
@@ -49,8 +49,8 @@
          "RecipeId":"2",
          "RecipeName":"Sucuklu Yumarta",
          "RecipeDescription":"Yumurtları dök",
-         "RecipeDirection":"TestTestTest",
-         "RecipeImage":"kahvaltı.jpg",
+         "RecipeDirection":"TestTestTes dsf df sdfs df sdfsdf sdf sdfsdfsdf dfsdffdd   fgdfgdfg fg fdg dfg dfgdgdgfgdfgdfgdgdfgt",
+         "RecipeImage":"https://github.com/ondergulsevdi/ketodietrecipes/blob/master/HeaderImages/breakfast.png?raw=true",
          "Ingredients":[
             {
                "IngredientId":"1",
